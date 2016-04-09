@@ -1,0 +1,70 @@
+_repo: The-Grand-Inquisitor_8578
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Blavatsky, H. P. (Helena Petrovna)
+    aliases:
+    - Blavatski, H. P.
+    - Блаватская, Е. П. (Елена Петровна)
+    - Blavatsky, Helena Petrovna
+    - Blavatski, Yelena Petrovna
+    birthdate: 1831
+    deathdate: 1891
+    gutenberg_agent_id: '2154'
+    url: http://www.gutenberg.org/2009/agents/2154
+    wikipedia: http://en.wikipedia.org/wiki/Helena_Petrovna_Blavatsky
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fédor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fiodor
+    - Dostoievski, Fedor Mikhailovitch
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: "\"The Grand Inquisitor\" is a parable in Fyodor Dostoyevsky's novel\
+  \ The Brothers Karamazov (1879–1880). It is told by Ivan, who questions the possibility\
+  \ of a personal and benevolent God, to his brother Alyosha, a novice monk. The Grand\
+  \ Inquisitor is an important part of the novel and one of the best-known passages\
+  \ in modern literature because of its ideas about human nature and freedom, and\
+  \ its fundamental ambiguity.\nScholars cite Friedrich Schiller's play Don Carlos\
+  \ as a major inspiration for Dostoyevsky's Grand Inquisitor, while also noting that\
+  \ \"The sources of the legend are extraordinarily varied and complex.\"\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Racism
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8578'
+  wikidata: Q1113102
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcc 'PG'
+- !lcsh 'Jesus Christ -- Fiction'
+- GITenberg
+title: The Grand Inquisitor
+url: http://www.gutenberg.org/ebooks/8578
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Grand_Inquisiteur
+- https://nl.wikipedia.org/wiki/De_grootinquisiteur_van_Sevilla
+- https://pt.wikipedia.org/wiki/O_Grande_Inquisidor
+- https://sr.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8_%D0%98%D0%BD%D0%BA%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D0%BE%D1%80
+- https://de.wikipedia.org/wiki/Der_Gro%C3%9Finquisitor
+- https://eo.wikipedia.org/wiki/Granda_Inkvizitoro
+- https://simple.wikipedia.org/wiki/The_Grand_Inquisitor
+- https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B5%81%E0%B4%96%E0%B5%8D%E0%B4%AF%E0%B4%AE%E0%B4%A4%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%B9%E0%B4%B5%E0%B4%BF%E0%B4%9A%E0%B4%BE%E0%B4%B0%E0%B4%95%E0%B5%BB
+- https://bg.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D1%8F%D1%82_%D0%B8%D0%BD%D0%BA%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D0%BE%D1%80
+- https://en.wikipedia.org/wiki/The_Grand_Inquisitor
+- https://it.wikipedia.org/wiki/Il_grande_inquisitore_(I_fratelli_Karamazov)
+- https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D1%96%D0%BD%D0%BA%D0%B2%D1%96%D0%B7%D0%B8%D1%82%D0%BE%D1%80_(%D0%94%D0%BE%D1%81%D1%82%D0%BE%D1%94%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9)
+- https://zh.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E5%A4%A7%E6%B3%95%E5%AE%98
+- https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D0%BA%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%D0%BE%D1%80_(%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)
